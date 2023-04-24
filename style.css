@@ -1,0 +1,42 @@
+
+body{
+    margin: auto;
+    font: robocop;
+    background-color: white;
+}
+
+header{
+    padding-right: 15px;
+    float: right;
+    margin: auto;
+}
+
+#header.ingreso{
+    height: 5px;
+    width: 5px;
+    padding-right: 15px;
+    float: right;
+    margin: auto;
+}
+
+#iconos{
+    margin: auto;
+    padding-right: 15px;
+    float: right;
+    size: 10px;
+}
+
+#main.logo{
+    width: 150px;
+    height: 150px;
+    align-items: center;
+    padding: 30px;
+    margin: 30px;
+    border: 40x; color: rebeccapurple;
+}
+
+main{
+    padding: 30px;
+    margin: 30px;
+    align-items: center;
+}
